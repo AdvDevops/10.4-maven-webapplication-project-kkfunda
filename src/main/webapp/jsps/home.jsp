@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>iTreen Data Systems | Cloud & DevOps Solutions</title>
+<title>iTreen Data and Systems Pvt Ltd. | Cloud & DevOps Solutions</title>
 
 <link rel="icon" href="images/logo.png">
 
